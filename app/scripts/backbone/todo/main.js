@@ -1,5 +1,5 @@
 define(["./views/appView",
-        "util/loadCss",
+        "util/loadcss",
          "app/scripts/lib/backbone.js",
          "app/scripts/lib/underscore.js",
          "app/scripts/lib/jquery.tmpl.js"],
